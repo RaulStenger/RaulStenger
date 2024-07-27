@@ -42,8 +42,5 @@
 </div>
 <img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=693399&height=120&section=footer"/>
 
-![snake gif](https://github.com/RaulStenger/RaulStenger/blob/output/github-contribution-grid-snake-dark.svg)
-
-<!---
-Cobrinha só ira funcionar quadno estiver no reademe do usuario RaulStenger
--->
+![Snake animation](https://github.com/RaulStenger/RaulStenger/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=RaulStenger&repo=RaulStenger&theme=react)](https://github.com/RaulStenger/RaulStenger)
